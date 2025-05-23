@@ -1,0 +1,35 @@
+﻿@model Doctor
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Delete form</h4>
+
+            <form asp-area="Admin" asp-controller="Doctor" asp-action="Delete" method="post" enctype="multipart/form-data" class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputUsername1">DoctorName</label>
+                    <input asp-for="DoctorName" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email Address</label>
+                    <input asp-for="EmailAddress" type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputUsername1">PhoneNumber</label>
+                    <input asp-for="PhoneNumber" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Category</label>
+                    <input asp-for="Category" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                </div>
+                <div>
+                    <input asp-for="ImgPath" type="file" />
+                </div>
+                <div asp-validation-summary="All"></div>
+
+                <button type="submit" class="btn btn-primary mr-2" >Delete</button>
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\doctor\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\doctor\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\viewmodels\\accountregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\viewmodels\\accountregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\viewmodels\\accountloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\viewmodels\\accountloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\viewmodels\\doctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\viewmodels\\doctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.bl\\exceptions\\doctorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CF817-1DA0-417F-B563-B215CFF8574F}|MedicalProject.BL\\MedicalProject.BL.csproj|solutionrelative:medicalproject.bl\\exceptions\\doctorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.mvc\\medicalproject.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34480902-4D82-4D98-BA0A-F438CAC2C3C0}|MedicalProject.MVC\\MedicalProject.MVC.csproj|solutionrelative:medicalproject.mvc\\medicalproject.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\migrations\\20250523112116_createdoctorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\migrations\\20250523112116_createdoctorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|c:\\users\\ca r221.14\\desktop\\adminpanel\\medical.exam\\medicalproject.dal\\migrations\\20250523132629_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45925092-3DEE-43EC-81C6-8009E357AC54}|MedicalProject.DAL\\MedicalProject.DAL.csproj|solutionrelative:medicalproject.dal\\migrations\\20250523132629_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswFoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:54:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:53:38.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MedicalProject.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:02.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Program.cs",
+              "RelativeToolTip": "MedicalProject.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:55:45.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:20:14.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Services\\DoctorService.cs",
+              "RelativeToolTip": "MedicalProject.BL\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:36:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:16:01.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:22:04.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:19:39.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:12:29.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Delete.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:46:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Services\\AccountService.cs",
+              "RelativeToolTip": "MedicalProject.BL\\Services\\AccountService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wEoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:31:00.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Info.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Info.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Info.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Info.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:45:20.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountRegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\AccountRegisterVM.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\ViewModels\\AccountRegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\AccountRegisterVM.cs",
+              "RelativeToolTip": "MedicalProject.BL\\ViewModels\\AccountRegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:22:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountLoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\AccountLoginVM.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\ViewModels\\AccountLoginVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\AccountLoginVM.cs",
+              "RelativeToolTip": "MedicalProject.BL\\ViewModels\\AccountLoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:23:16.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MedicalProject.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:40:02.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:46:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:19:36.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\AppRole.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:21:10.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250523132629_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Migrations\\20250523132629_Initial.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Migrations\\20250523132629_Initial.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Migrations\\20250523132629_Initial.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Migrations\\20250523132629_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:26:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:45:56.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:29:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:24:45.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAIBJwA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:24:04.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoctorVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\DoctorVM.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\ViewModels\\DoctorVM.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\ViewModels\\DoctorVM.cs",
+              "RelativeToolTip": "MedicalProject.BL\\ViewModels\\DoctorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:32:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:15:23.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MedicalProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:15:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:35:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MedicalProject.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T12:13:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoctorException.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Exceptions\\DoctorException.cs",
+              "RelativeDocumentMoniker": "MedicalProject.BL\\Exceptions\\DoctorException.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.BL\\Exceptions\\DoctorException.cs",
+              "RelativeToolTip": "MedicalProject.BL\\Exceptions\\DoctorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:01:55.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicalProject.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\MedicalProject.MVC.csproj",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\MedicalProject.MVC.csproj",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\MedicalProject.MVC.csproj",
+              "RelativeToolTip": "MedicalProject.MVC\\MedicalProject.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T11:18:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250523112116_CreateDoctorsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Migrations\\20250523112116_CreateDoctorsTable.cs",
+              "RelativeDocumentMoniker": "MedicalProject.DAL\\Migrations\\20250523112116_CreateDoctorsTable.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.DAL\\Migrations\\20250523112116_CreateDoctorsTable.cs",
+              "RelativeToolTip": "MedicalProject.DAL\\Migrations\\20250523112116_CreateDoctorsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:21:16.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicalProject.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\AdminPanel\\Medical.Exam\\MedicalProject.MVC\\appsettings.json",
+              "RelativeToolTip": "MedicalProject.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T11:18:40.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
